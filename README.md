@@ -5,9 +5,10 @@ We will develope it with multiple eye catching features.
 ### Without Filling up data
 without filling data an error message will display 
 
-![Coders Trust Logo](/assets/img/required.jpg)
+![Required](/assets/img/required.jpg)
 
 
 ### With Filling up data
 with filling data a success message will display 
-<img src="stable.jpg">
+
+![Stable](/assets/img/stable.jpg)
