@@ -5,7 +5,7 @@ We will develope it with multiple eye catching features.
 ### Without Filling up data
 without filling data an error message will display 
 
-![Coders Trust Logo](/assets/img/required.png)
+![Coders Trust Logo](/assets/img/required.jpg)
 
 
 ### With Filling up data
