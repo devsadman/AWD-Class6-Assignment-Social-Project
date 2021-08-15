@@ -4,7 +4,8 @@ We will develope it with multiple eye catching features.
 
 ### Without Filling up data
 without filling data an error message will display 
- ![Tux, the Linux mascot](/assets/img/required.jpg)
+
+![Coders Trust Logo](/assets/img/required.png)
 
 
 ### With Filling up data
